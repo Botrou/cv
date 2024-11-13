@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Botrous Yousseif</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; }
+        h1, h2 { color: #333; }
+        p, li { color: #666; line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Botrous Yousseif</h1>
+        <h2>System Administrator & Web Developer</h2>
+        <p><strong>Mobile:</strong> +201270730987</p>
+        <p><strong>Phone:</strong> +20242211934</p>
+        <p><strong>Website:</strong> <a href="https://loca-eg.com/Botrous">https://loca-eg.com/Botrous</a></p>
+        <p><strong>Email:</strong> <a href="mailto:botrous.yousseif@loca-eg.com">botrous.yousseif@loca-eg.com</a></p>
+        
+        <h3>Profile</h3>
+        <p>A competent network administrator with more than 9 years of experience in the IT industry...</p>
+
+        <h3>Education</h3>
+        <ul>
+            <li>November 2024 - PHP Full Stack Developer.</li>
+            <li>December 2020 - Certified Microsoft Exchange Server (MCSE)</li>
+            <li>... (and more education details)</li>
+        </ul>
+
+        <h3>Work Experience</h3>
+        <ul>
+            <li>Nov 2023 - Aug 2024: Church of the Virgin Mary in Zenon</li>
+            <li>Sept 2023 - Nov 2023: Laptop Maintenance at AlBatool Company</li>
+            <li>... (and more experience details)</li>
+        </ul>
+
+        <h3>Hobbies</h3>
+        <p>Music, Reading, Sports</p>
+    </div>
+</body>
+</html>
